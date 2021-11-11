@@ -7,13 +7,15 @@
  - make the website responsive
 
 ## Figma Designs
+![Home top](.//assets/figma/home-top.png)
+![Our work](.//assets/figma/our-work.png)
+![Contact](.//assets/figma/contact.png)
+![Support Us](.//assets/figma/support-us.png)
+![Teams](.//assets/figma/teams.png)
+![Join Us](.//assets/figma/join-us.png)
+![Blogs](.//assets/figma/blogs-page.png)
+![Blog Post](.//assets/figma/blog-post.png)
 
-![Home Page](.//assets/figma-designs/home.png)
-![Blog Page](.//assets/figma-designs/blog-page.png)
-![Post Page](.//assets/figma-designs/text-post.png)
-![Teams Page](.//assets/figma-designs/teams.png)
-![Support Page](.//assets/figma-designs/support.png)
-![Join Us Page](.//assets/figma-designs/join-us.png)
 
 ## Development Steps
  - Set up dev environment and add dependencies.
