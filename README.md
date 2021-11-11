@@ -16,6 +16,7 @@
 ![Blogs](.//assets/figma/blogs-page.png)
 ![Blog Post](.//assets/figma/blog-post.png)
 
+
 ## Development Steps
  - Set up dev environment and add dependencies.
  - Add Navbar
