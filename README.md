@@ -1,8 +1,6 @@
-# Dance Into Space Website Redesign. 
+# Dance Into Space Foundation Website redesign built with Bootstrap.
 
 ## [Current website](https://danceintospace.org/)
-
-## Dance Into Space Foundation Website built with Bootstrap.
 
 ### The goal of the redesign:
  - create an easy to view gallery section for video and photos.
