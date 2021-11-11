@@ -7,6 +7,7 @@
  - make the website responsive
 
 ## Figma Designs
+
 ![Home Page](.//assets/figma-designs/home.png)
 ![Blog Page](.//assets/figma-designs/blog-page.png)
 ![Post Page](.//assets/figma-designs/text-post.png)
