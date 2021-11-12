@@ -1,10 +1,11 @@
 # Dance Into Space Foundation Website redesign built with Bootstrap.
 ## [Current website](https://danceintospace.org/)
 ### The goal of the redesign:
- - create an easy to view gallery section for video and photos.
- - add a donate and support page. 
- - intergrate a blog dashboard to enable one create and publish blog articles.
- - make the website responsive
+ - Create an easy to view gallery section for video and photos.
+ - Add a donate and support page.
+ - Integrate a blog dashboard to enable one create and publish blog articles.
+ - Make the website responsive
+ - Ensure the webiste meets WCAG Standards
 
 ## Figma Designs
 ![Home top](.//assets/figma/home-top.png)
