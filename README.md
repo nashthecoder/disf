@@ -1,5 +1,7 @@
-# Dance Into Space Foundation Website redesign built with Bootstrap.
+# Dance Into Space Foundation Website redesign built with Bootstrap and ReactJS.
+
 ## [Current website](https://danceintospace.org/)
+
 ### The goal of the redesign:
  - Create an easy to view gallery section for video and photos.
  - Add a donate and support page.
